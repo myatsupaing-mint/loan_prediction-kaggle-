@@ -28,7 +28,6 @@ This project aims to predict whether a loan applicant is at risk of defaulting o
   - `LabelEncoder`: For encoding categorical features.
   - `StandardScaler`: For scaling features.
   - `accuracy_score`, `classification_report`, `confusion_matrix`: For model evaluation.
-  - `cross_val_score`: For cross-validation.
 
 ## Data Preprocessing
 
