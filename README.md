@@ -39,9 +39,6 @@ This project aims to predict whether a loan applicant is at risk of defaulting o
 
 ## Models Used
 
-### Logistic Regression
-- Accuracy: 57.73%
-  
 ### Random Forest Classifier
 - Accuracy: 90.14%
 
